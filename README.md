@@ -1,8 +1,8 @@
-#### I'm Mayu <p align="center">
+#### I'm Mayu 
 
 <img src="img/hellyeah.gif" align="right">
 
-[ a Journalist from Barcelona, self-taught film-maker, photography lover since I remember who's worked as audiovisual freelance and as communicator for grassroots organizations around Europe and Central America ]
+*a Journalist from Barcelona, self-taught film-maker, photography lover since I remember who's worked as audiovisual freelance and as communicator for grassroots organizations around Europe and Central America*
 
 I'm also a craft beer specialist and a carpenter apprendice 🌟 who likes gardening, sporting, reading and dancing 
 💚 and loves music, coffe and veggie pizza 💜
