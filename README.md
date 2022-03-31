@@ -44,7 +44,7 @@ Which has turned to be both challenging and fun!
 <img src="img/coffe.gif" align="left" width="80" height="80">
 <img src="img/music.gif" align="left" width="90" height="90">
 </br>
-<a> Linux and free software fan. I'm also a craft beer specialist and a carpenter apprendice who likes gardening, browsing internet, sporting, reading and dancing.</a>
+<a> Linux and free software fan. I'm also a craft beer specialist and a carpenter apprendice who likes gardening, surfing the internet, sporting, reading and dancing.</a>
 </br>
 </br>
 </br>
