@@ -1,4 +1,4 @@
-#### I'm Mayu 
+### I'm Mayu 
 
 <img src="img/hellyeah.gif" align="right">
 
@@ -7,7 +7,7 @@ a Journalist from Barcelona, self-taught film-maker, photography lover since I r
 ```
 Eager learner, restless and concerned curious person, couldn't help but to go comprehend what is going on behind the technology that surrounds us and increasingly shapes the world, so now I've become a...
 
-# Full Stack developer 👩‍💻
+#  👩‍💻 Full Stack developer
 
 Which has turned to be both challenging and fun!
 
@@ -38,13 +38,20 @@ Which has turned to be both challenging and fun!
   <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
 </p>
 
+</br> 
+
+### Some things I  💜
+<img src="img/coffe.gif" align="left" width="80" height="80">
+<img src="img/music.gif" align="left" width="90" height="90">
+</br>
+<a> I'm also a craft beer specialist and a carpenter apprendice who likes gardening, sporting, reading and dancing</a>
+</br>
+</br>
+</br>
+
 #### From zero to hero🦸‍♀️ine, currently learning:
 - [ ] Microservices
 - [ ] Docker
 - [ ] CI/CD
 - [ ] Redux
 - [ ] Next.js
-
-### Some things I  💜
-
-I'm also a craft beer specialist and a carpenter apprendice 🌟 who likes gardening, sporting, reading and dancing 
