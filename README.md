@@ -5,6 +5,7 @@
 
 ```
 a Journalist from Barcelona, self-taught film-maker, photography lover since I remember who's worked as communicator for grassroots organizations and as audiovisual freelance around Europe and Central America
+
 ```
 
 Eager learner, restless and concerned curious person, couldn't help but to go comprehend what is going on behind the technology that surrounds us and increasingly shapes the world, so now I've become a...
