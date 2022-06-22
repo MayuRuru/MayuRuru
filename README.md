@@ -1,18 +1,16 @@
 ### I'm Mayu 
 
-<img src="img/hellyeah.gif" align="right">
-
-
 ```
 a Journalist from Barcelona, self-taught film-maker, photography lover since I remember who's worked as communicator for grassroots organizations and as audiovisual freelance around Europe and Central America
-
 ```
+<img src="img/hellyeah.gif" align="right" margin-left="25px">
+
 
 Eager learner, restless and concerned curious person, couldn't help but to go comprehend what is going on behind the technology that surrounds us and increasingly shapes the world, so now I've become a...
 
 #  👩‍💻 Full Stack developer
-
 Which has turned to be both challenging and fun!
+
 
 ### Languages and Tools 🛠️
 <p align="left">
