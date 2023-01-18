@@ -1,7 +1,7 @@
 ### I'm Mayu 
 
 ```
-a Journalist from Barcelona, self-taught film-maker, photography lover since I remember who's worked as communicator for grassroots organizations and as audiovisual freelance around Europe and Central America
+a former journalist from Barcelona, self-taught film-maker, photography lover since I remember who's worked as communicator for grassroots organizations and as audiovisual freelance around Europe and Central America
 ```
 <img src="img/hellyeah.gif" align="right" margin-left="25px">
 
