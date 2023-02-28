@@ -58,3 +58,5 @@ Which has turned to be both challenging and fun!
 - [x] Redux
 - [ ] Kotlin
 - [ ] Next.js
+- [ ] MongoDB
+- [ ] Typescript
